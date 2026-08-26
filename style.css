@@ -1,0 +1,51 @@
+/* Базовые сбросы и шрифты */
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: #0f172a;
+    color: #e2e8f0;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
+
+/* Главный заголовок */
+h1 {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #f8fafc;
+    margin-bottom: 8px;
+    letter-spacing: -0.5px;
+}
+
+/* Подзаголовок (специальность) */
+h2 {
+    font-size: 1.25rem;
+    font-weight: 500;
+    color: #38bdf8;
+    margin-bottom: 24px;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+/* Ссылки (контакты) */
+a {
+    color: #94a3b8;
+    text-decoration: none;
+    font-size: 1rem;
+    margin: 6px 0;
+    transition: color 0.2s ease-in-out, transform 0.2s ease-in-out;
+}
+
+a:hover {
+    color: #38bdf8;
+    transform: translateY(-2px);
+}
