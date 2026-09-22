@@ -9,14 +9,14 @@ Hi, I'm **Uliana**. I am a developer with a background in web technologies and a
 ### 🔮 What I Do
 
 * ☕ **Java Development:** Exploring modern backend patterns, OOP, and architecture.
-* 🤖 **Bots & Automation:** Creating custom Telegram bots using JavaScript / Node.js.
-* 🌐 **Continuous Learning:** Expanding my skillset in English and global software practices.
+* - 🥽 **VR Deployment & Support:** Configuring, installing, and troubleshooting software on VR platforms (PICO, Oculus Quest).
 
 ---
 
 ### ⚙️ Technologies & Tools
 
-`Java` • `Node.js` • `JavaScript` • `Git` • `REST API` • `VS Code` • `IntelliJ IDEA`
+`Java` • `html` • `css` • `Git` • `REST API` • `VS Code` • `IntelliJ IDEA` • `Maven` • `Gradle` `Kotlin` • `• PICO • Oculus Quest
+`
 
 ---
 
