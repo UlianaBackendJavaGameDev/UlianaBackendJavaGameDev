@@ -24,3 +24,4 @@ Hi, I'm **Uliana**. I am a developer with a background in web technologies and a
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](www.linkedin.com/in/lia-m-b8ab35349)
 [![Telegram](https://img.shields.io/badge/Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](t.me/melkijprog)
+[![Vkontakte](https://img.shields.io)](https://vk.ru/melkijprogrammist).
