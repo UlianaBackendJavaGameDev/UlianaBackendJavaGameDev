@@ -9,7 +9,7 @@ Hi, I'm **Uliana**. I am a developer with a background in web technologies and a
 ### 🔮 What I Do
 
 * ☕ **Java Development:** Exploring modern backend patterns, OOP, and architecture.
-* - 🥽 **VR Deployment & Support:** Configuring, installing, and troubleshooting software on VR platforms (PICO, Oculus Quest).
+* 🥽 **VR Deployment & Support:** Configuring, installing, and troubleshooting software on VR platforms (PICO, Oculus Quest).
 
 ---
 
