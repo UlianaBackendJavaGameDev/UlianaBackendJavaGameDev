@@ -32,6 +32,6 @@ I love exploring mobile architectures, designing clean backend logic, and workin
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://shields.io)](https://linkedin.com)
+[![LinkedIn](https://shields.io)](https://www.linkedin.com/in/uliana-moiseeva-b8ab35349/)
 [![Telegram](https://shields.io)](https://t.me)
 [![VK](https://shields.io)](https://vk.ru/melkijprogrammist)
